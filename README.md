@@ -131,3 +131,4 @@ adb shell battery reset
 Launch an app:
 ```shell
 adb shell monkey -p com.package name 1
+```
