@@ -1,6 +1,6 @@
 # ADB 101
 
-See full documentation here: https://developer.android.com/studio/command-line/adb
+See full documentation here: [https://developer.android.com/studio/command-line/adb](https://developer.android.com/studio/command-line/adb)
 
 ### Basics
 
