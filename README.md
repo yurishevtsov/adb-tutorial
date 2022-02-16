@@ -50,6 +50,10 @@ adb logcat | tee file.log
 ```
 
 Filter for crashes:
+* Using logcat buffer: `crash`:
+```shell
+adb logcat -b crash
+```
 * Using native ADB tags:
 ```shell
 adb logcat AndroidRuntime:E *:S
